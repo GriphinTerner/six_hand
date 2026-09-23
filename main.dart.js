@@ -41944,7 +41944,7 @@ $S:3}
 A.biC.prototype={
 $1(a){var s=A.fL().b
 s=s==null?null:s.canvasKitBaseUrl
-return(s==null?"canvaskit/":s)+a},
+return(s==null?"https://www.gstatic.com/flutter-canvaskit/ddf47dd3ff96dbde6d9c614db0d7f019d7c7a2b7/":s)+a},
 $S:21}
 A.avn.prototype={
 iH(a,b){var s,r=this.a
@@ -145441,7 +145441,7 @@ $S:28}
 A.Ri.prototype={
 a3(){return new A.aeA()}}
 A.aeA.prototype={
-aD(){var s,r,q,p,o,n,m=this,l="https://85.192.37.204:18443"
+aD(){var s,r,q,p,o,n,m=this,l="https://62.60.237.80:18443"
 m.aP()
 try{r=A.bHW("production")
 q=new A.wX(r,B.c.a4(l).length===0?null:A.vL(l),!1)
