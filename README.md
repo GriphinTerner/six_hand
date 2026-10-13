@@ -3,7 +3,7 @@
 Это готовая статическая Flutter Web release-сборка для репозитория
 `GriphinTerner/six_hand`. Внутри уже зашит production API:
 
-`https://62.60.237.80:18443`
+`https://193.233.221.103:18443`
 
 ## Что делать
 
